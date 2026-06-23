@@ -11,5 +11,5 @@ A fun, interactive terminal-based guessing game built using Python. The program 
 1. Open your terminal in the project folder.
 2. Run the command:
    ```bash
-   python Random_Num_Guessing_game.py
+   python random_num_guessing_game.py
    ```
